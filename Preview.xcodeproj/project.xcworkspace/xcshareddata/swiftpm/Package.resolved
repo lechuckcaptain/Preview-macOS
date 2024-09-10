@@ -1,4 +1,5 @@
 {
+  "originHash" : "ac865fc56d2aaf4b4b0fd3506a42bc941cef2245dd35c100189671460181c275",
   "pins" : [
     {
       "identity" : "accessibilitysnapshot",
@@ -23,10 +24,10 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/EmergeTools/SnapshotPreviews-iOS",
       "state" : {
-        "revision" : "94ad95ed84adbfbf3d63039b05234d23f9bed325",
-        "version" : "0.10.13"
+        "branch" : "main",
+        "revision" : "94ad95ed84adbfbf3d63039b05234d23f9bed325"
       }
     }
   ],
-  "version" : 2
+  "version" : 3
 }
